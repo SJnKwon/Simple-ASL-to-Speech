@@ -52,10 +52,10 @@ open index.html
 
 
 # Model Integration
-To replace the current model with your own, follow these steps:
-Train a new model on Teachable Machine. (Currently, code is structured around Teachable Machine model)
-Download the model files (model.json, metadata.json, and weights.bin).
-Replace the files in the tm-my-image-model directory with your new model files.
+To replace the current model with your own, follow these steps:<br>
+- Train a new model on Teachable Machine. (Currently, code is structured around Teachable Machine model)
+- Download the model files (model.json, metadata.json, and weights.bin).
+- Replace the files in the tm-my-image-model directory with your new model files.
 
 # Customization
 - Hand Connections: The keypoint connections can be customized in scripts.js under the handConnections array.
