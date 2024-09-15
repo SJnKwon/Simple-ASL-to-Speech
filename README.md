@@ -25,7 +25,7 @@ The system recognizes specific commands like "SPACE" to insert a space and "DELE
 
 5. **Text-to-Speech:**
 If no hand gestures are detected for 5 seconds, the current text in the letter container is spoken aloud using the browser's Web Speech API.
-<br>
+
 **Setup**
 To get started with this project, follow these steps:
 
@@ -43,7 +43,7 @@ Open index.html in a browser:
 ```git bash
 open index.html
 ```
-<br>
+
 **Usage**
 - Allow the browser to access the webcam when prompted.
 - Hold your hand in the frame and make an ASL gesture. The predicted letter will be displayed on the screen.
