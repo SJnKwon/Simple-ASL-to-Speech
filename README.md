@@ -39,7 +39,7 @@ Clone the repository:
 git clone https://github.com/your-username/asl-hand-gesture-recognition.git
 cd asl-hand-gesture-recognition
 ```
-Open index.html in a browser:
+Open index.html with Live Server in a browser:
 ```git bash
 open index.html
 ```
